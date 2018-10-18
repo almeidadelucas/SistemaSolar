@@ -307,6 +307,8 @@
     <Compile Include="Assets\Scripts\GiraGira.cs" />
     <Compile Include="Assets\Scripts\LookAtTarget.cs" />
     <Compile Include="Assets\Scripts\RotateAround.cs" />
+    <Compile Include="Assets\Scripts\TrocarSom.cs" />
+    <Compile Include="Assets\TrocarAudio.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />

@@ -308,7 +308,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -369,7 +369,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000
+    m_ExpandedIDs: 5cc9ffffe6fbffff000000008c0c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -424,9 +424,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.897256, y: -1.5124989, z: 8.798832}
+    m_Target: {x: 27.158283, y: -2.8648987, z: 18.852947}
     speed: 2
-    m_Value: {x: 11.897256, y: -1.5124989, z: 8.798832}
+    m_Value: {x: 27.158283, y: -2.8648987, z: 18.852947}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -454,13 +454,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.23792219, y: 0.4027678, z: -0.10926057, w: 0.8770595}
+    m_Target: {x: 0.11741334, y: 0.05954721, z: -0.0070533324, w: 0.9912712}
     speed: 2
-    m_Value: {x: 0.23792218, y: 0.4027678, z: -0.10926056, w: 0.8770595}
+    m_Value: {x: 0.11741334, y: 0.05954721, z: -0.0070533324, w: 0.9912712}
   m_Size:
-    m_Target: 21.899343
+    m_Target: 75.25239
     speed: 2
-    m_Value: 21.899343
+    m_Value: 75.25239
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -534,19 +534,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\u16712\Documents\GitHub\SistemaSolar
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 44090000
-    m_LastClickedID: 2372
+    m_SelectedIDs: 460a0000
+    m_LastClickedID: 2630
     m_ExpandedIDs: 0000000044090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -602,22 +602,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: RotateAround
+      m_OriginalName: RotateAround
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 1598
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
